@@ -1,1 +1,1 @@
-module.exports = require("emoji-js");
+module.exports = require("wdt-emoji-bundle/emoji");
